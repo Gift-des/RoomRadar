@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920129404720",
+    "project_id": "roomradar3",
+    "storage_bucket": "roomradar3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920129404720:android:c0cc5ee616eb3576fd12f5",
+        "android_client_info": {
+          "package_name": "com.example.roomradar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2vI-2KE0Vt8T8J5i6dtA-l23qfpIWKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
